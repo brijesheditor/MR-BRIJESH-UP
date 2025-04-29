@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/indianup/VJ-Txt-Leech-Bot/blob/main/Github/img/09.jpg" alt=" ミ★ 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖘 𝕭𝖆𝖇𝖚 ★彡 ">
+  <img src="https://github.com/indianup/VJ-Txt-Leech-Bot/blob/main/Github/img/09.jpg" alt=" ミ★ MR BRIJESH 👿 ★彡 ">
 </p>
 <h1 align="center">
-  ミ★ 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖘 𝕭𝖆𝖇𝖚 ★彡
+  ミ★ MR BRIJESH 👿 ★彡
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
